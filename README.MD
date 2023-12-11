@@ -1,6 +1,6 @@
-# LittleBinbinn github
-## Hi,I am here
-目前正于太原理工大学软件工程专业学习，加入云顶书院，致力于成为一名优秀的全栈工程师！
+
+## Hi,I am littleBinbinn
+太原理工大学大二的一位萌新，致力于成为一名优秀的全栈工程师！
 I am currently studying software engineering at Taiyuan University of Technology, Xi joined Genting Academy, and is committed to becoming an excellent full-stack engineer!
 
 目前掌握的技术：
