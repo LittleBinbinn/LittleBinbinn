@@ -14,9 +14,9 @@
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 
 ## 当前计划：
-<p>使用已有技能做项目;</p>
-<p>2.学习mysql和数据库！</p>
-<p>3.刷力扣，练习算法!</p>
+<p>使用已有技能做项目!</p>
+<p>学习mysql和数据库！</p>
+<p>刷力扣，练习算法!</p>
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)&center=true&size=27"> </a> </h1>
