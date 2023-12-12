@@ -1,9 +1,9 @@
 ## 🙋个人介绍
 Hi,I am littleBinbinn
-<div>太原理工大学就读，致力于成为一名优秀的全栈工程师！</div>
-<div>I am currently studying software engineering at Taiyuan University of Technology, and is committed to becoming an excellent full-stack engineer!</div>
-<div>云顶书院七期全栈方向</div>
-<div> YunDing Academy Phase 7 full-stack direction</div>
+<h3>太原理工大学就读，致力于成为一名优秀的全栈工程师！</h3>
+<h4>I am currently studying software engineering at Taiyuan University of Technology, and is committed to becoming an excellent full-stack engineer!</h4>
+<h3>云顶书院七期全栈方向</h3>
+<h4> YunDing Academy Phase 7 full-stack direction</h4>
 
 ## ✍️掌握的技术：
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
