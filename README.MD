@@ -20,11 +20,11 @@ Hi,I am littleBinbinn
 <tr>
 <img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
 
-- [美团](https://about.meituan.com/home) &emsp; 📌 2023-6 —— 2023-10
+- [美团](https://about.meituan.com/home) &emsp; 📌 2024-6 —— 2024-9
 
   - 工作岗位：前端实习生
-  - 工作部门：点评事业部-用户运营终端
-  - 工作方向：站外生态/移动端开发，安全基线接入，高性能web调研和建设
+  - 工作部门：服体技术部-智能服务组
+  - 工作方向：美团智能高性能客服平台建设
     </td>
     </tr>
   <div height="20"></div>
@@ -35,9 +35,9 @@ Hi,I am littleBinbinn
 
 
 ## 当前计划：
-<p>使用已有技能做项目!</p>
-<p>学习mysql和数据库！</p>
 <p>刷力扣，练习算法!</p>
+<p>学习vue原理</p>
+<P>继续打基础，致力进入bat</p>
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
