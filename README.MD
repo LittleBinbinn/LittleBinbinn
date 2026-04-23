@@ -30,6 +30,19 @@ Hi,I am littleBinbinn
   <div height="20"></div>
     <tr>
     <td>
+<tr>
+<img align="right" width="100" height="100" src="https://img05.51jobcdn.com/fansImg/CompLogo/5/4401/4400526/4400526_300.png?636963702107020060" />
+
+- [京东](https://about.meituan.com/home) &emsp; 📌 2025-12 —— 2026-4
+
+  - 工作岗位：前端实习生
+  - 工作部门：支付前端研发部
+  - 工作方向：支付平台开发
+    </td>
+    </tr>
+  <div height="20"></div>
+    <tr>
+    <td>
 
 ## 当前计划：
 <p>刷力扣，练习算法!</p>
