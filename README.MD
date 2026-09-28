@@ -1,6 +1,6 @@
 ## 🙋个人介绍
 Hi,I am littleBinbinn
-<h3>太原理工大学本科，大连理工大学研究生就读,目前研0,致力于成为一名优秀的全栈工程师！</h3>
+<h3>大连理工大学研究生就读,致力于成为一名优秀的全栈工程师！</h3>
 <h4>I am currently studying software engineering at Dalian University of Technology, and is committed to becoming an excellent full-stack engineer!</h4>
 <h3>云顶书院七期全栈方向</h3>
 <h4> YunDing Academy Phase 7 full-stack direction</h4>
