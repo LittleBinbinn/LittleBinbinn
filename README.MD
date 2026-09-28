@@ -37,7 +37,7 @@ Hi,I am littleBinbinn
 
   - 工作岗位：前端实习生
   - 工作部门：支付前端研发部
-  - 工作方向：支付平台开发
+  - 工作方向：京东App的支付平台开发
     </td>
     </tr>
   <div height="20"></div>
