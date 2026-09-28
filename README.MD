@@ -31,7 +31,9 @@ Hi,I am littleBinbinn
     <tr>
     <td>
 <tr>
-- [京东](https://about.jingdong.com/home) &emsp; 📌 2025-12 —— 2026-4
+<img align="right" width="100" height="100" src="https://we.51job.com/pc/groupdetail?groupid=s00003&sortArea=230300&pageCode=searchresult%7Csearchjobtab%7Csupercolist" />
+
+- [京东] &emsp; 📌 2025-12 —— 2026-4
 
   - 工作岗位：前端实习生
   - 工作部门：支付前端研发部
